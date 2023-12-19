@@ -10,4 +10,4 @@ I am a student based in Brazil.
 
 At the moment, I'm studying [*Learn Enough Git*](https://www.learnenough.com/git) by [Michael Hartl](https://www.michaelhartl.com/).
 
-That's basically it for now.
+That's it for now.
